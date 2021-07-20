@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.tomato-color{
+    color: tomato;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width-img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 8px 25px;
+    border-radius: 15px;
+    color: whitesmoke;
+    font-weight: 600;
+}
+.top-banner{
+    background-image: url(images/Frame\ 59.png);
+    background-repeat: no-repeat;
+}
+.ajaira{
+    padding-right: 120px;
+}
+.title-link-add{
+    text-decoration: none;
+    font-weight: 900;
+    color: brown;
+}
+.second-background{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.recipe-text{
+    text-align: center;
+}
+.one-third-width{
+    width: 100%;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.recipe-border{
+    border: 10px 10px 40px white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.social-media{
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 20px 20px burlywood;
+}
+.footer-black{
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+}
+#different{
+    color: gold;
+}
